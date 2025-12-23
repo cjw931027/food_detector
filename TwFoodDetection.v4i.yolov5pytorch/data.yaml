@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 26
+names: ['Ants climbing the tree', 'Broccoli', 'Chicken Leg Steak', 'Dried Radish Omelette', 'Fried dried beans', 'Fried onions', 'Fushan-lettuce', 'Fushan-lettuceStir-fried Sweet Beans with Oyster Mushrooms', 'Mapo Tofu', 'Pan Fried Tofu', 'Scramble Egg with Tomatoes', 'Scrambled eggs with carrots', 'Steamed fish', 'bean bag', 'bitter gourd', 'braised egg', 'brown swordbelt', 'cabbage', 'cauliflower', 'eggplant', 'meat', 'purplerice', 'rice', 'steamed egg', 'sweet potato leaves', 'three-cup chicken']
+
+roboflow:
+  workspace: fooddetector-xnrdr
+  project: twfooddetection-rx7pe
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fooddetector-xnrdr/twfooddetection-rx7pe/dataset/4
