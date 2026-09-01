@@ -9,3 +9,5 @@ https://drive.google.com/file/d/15XMtNsB52cirKuXfuHjm0p8eimeZ9QUf/view?usp=shari
 
 # 結果預覽
 ![專案預覽圖](./result/a6.jpg)
+![專案預覽圖](./result/a12.jpg)
+![專案預覽圖](./result/a20.jpg)
